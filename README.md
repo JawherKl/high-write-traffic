@@ -28,7 +28,7 @@ node src/index.js
     . Batch Writes (Optional): For even better performance.
 
 
-### 6. **Further Enhancements**
+## Further Enhancements
 
 You can take the project further by:
 - Adding **performance monitoring** to see how well the system performs under different loads.
